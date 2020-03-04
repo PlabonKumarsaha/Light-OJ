@@ -1,4 +1,4 @@
 # Light-OJ
-online judge 
+online_judge 
 
 
